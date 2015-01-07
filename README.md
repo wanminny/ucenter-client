@@ -1,2 +1,0 @@
-# ucenter-client
-ucenter client 
